@@ -3,9 +3,13 @@ RENCANA KONTEN ABDUL
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
+    ^ Vue
     ^ React
 - PHP framework
   6 lAravel
+- Struktur data dasar
+- PHP framework
+  ^ Laravel
 - Interview
 - Vlogs
+- Phyton

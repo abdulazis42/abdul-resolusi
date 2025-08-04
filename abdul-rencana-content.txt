@@ -5,6 +5,7 @@ RENCANA KONTEN ABDUL
   * Framework Javascript
     ^ Vue
     ^ React
+    ^ Angular
 - PHP framework
   6 lAravel
 - Struktur data dasar
